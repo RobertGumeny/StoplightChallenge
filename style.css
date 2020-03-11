@@ -1,5 +1,4 @@
 body{
-  display: flex;
   background-color: lightgray;
 }
 .circle-red{
@@ -58,5 +57,4 @@ body{
 }
 .stoplight{
   margin: auto;
-  margin-top: auto;
 }

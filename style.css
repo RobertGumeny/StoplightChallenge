@@ -12,6 +12,9 @@ body{
   bottom: 200px;
   z-index: 2;
 }
+.circle-red:hover{
+  box-shadow: 0 0 10px lightcoral;
+}
 .circle-yellow{
   height: 60px;
   width: 60px;
@@ -22,6 +25,9 @@ body{
   bottom: 194px;
   z-index: 2;
 }
+.circle-yellow:hover{
+  box-shadow: 0 0 10px lightyellow;
+}
 .circle-green{
   height: 60px;
   width: 60px;
@@ -31,6 +37,9 @@ body{
   left: 6px;
   bottom: 188px;
   z-index: 2;
+}
+.circle-green:hover{
+  box-shadow: 0 0 10px lightgreen;
 }
 .rectangle-small{
   height: 60px;

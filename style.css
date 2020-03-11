@@ -1,0 +1,31 @@
+body{
+  background-color: lightgray;
+}
+.circle-red{
+  height: 30px;
+  width: 30px;
+  background-color: red;
+  border-radius: 50%;
+}
+.circle-yellow{
+  height: 30px;
+  width: 30px;
+  background-color: yellow;
+  border-radius: 50%;
+}
+.circle-green{
+  height: 30px;
+  width: 30px;
+  background-color: green;
+  border-radius: 50%;
+}
+.rectangle-small{
+  height: 30px;
+  width: 15px;
+  background-color: #1f1f14;
+}
+.rectangle-large{
+  height: 102px;
+  width: 36px;
+  background-color: #1f1f14;
+}
